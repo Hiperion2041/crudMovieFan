@@ -15,7 +15,7 @@ import models.ContenidoModel;
 import services.ContenidoService;
 
 @RestController
-@RequestMapping("api/Contenido")
+@RequestMapping("contenido")
 public class ContenidoController {
 	
 	@Autowired
